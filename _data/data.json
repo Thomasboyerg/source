@@ -1,7 +1,13 @@
 {
   "key": "value",
   "key2": "use this for variables you want to load globally",
-  "title": "Nullizzle shizznit velizzle, hizzle, suscipit own yo', gravida vizzle, arcu.",
+  "title": {
+    "TitleOne":"ECV DEVICE LAB",
+    "TitleTwo":"Pour tout le monde !",
+    "TitleThree":"Efficace & Puissant !",
+    "TitleFour":"Partage !",
+    "TitleFive":"Gratuit"
+  },
   "text": {
     "btnText": "VALIDER",
     "textRdvTwo": "2. Vous pouvez venir dans l'un de nos 2 établissements pour utiliser le Device Lab ou les étudiants peuvent venir avec vous :",
