@@ -112,8 +112,11 @@ So feel free to use any of these approaches. Or don't. It's totally up to you.
 //     $COMPONENTS
 // \*------------------------------------*/
 // @import "scss/components/blocks";
+
+@import "scss/components/text/text";
 @import "scss/components/button/button";
 @import "scss/components/icon/icon";
+
 
 // @import "scss/components/carousels";
 // @import "scss/components/footer";

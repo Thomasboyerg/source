@@ -1,5 +1,5 @@
 ---
-title: Text-medium
+title: Input avec icône
 ---
 
 [Insert description here]

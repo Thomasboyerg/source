@@ -27,4 +27,13 @@
 		width: 282px;
 		background: $color-yellow;
 		@include position(center, center);
+		border-radius: 3px;
+}
+
+.linkText {
+	font-family: 'Open Sans';
+	font-weight: 600;
+	font-size: 18px;
+	text-decoration: none;
+	color: white;
 }
