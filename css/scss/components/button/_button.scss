@@ -7,7 +7,7 @@
 	border-radius: 50%;
 	width: 56px;
 	height: 56px;
-	box-shadow: 0 0 6px 0 rgba(0,0,0,0.12);
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.26);
 	display: inline-block;
 	@include position(center, center);
 }
@@ -17,7 +17,7 @@
 	border-radius: 50%;
 	width: 56px;
 	height: 56px;
-	box-shadow: 0 0 6px 0 rgba(0,0,0,0.12);
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.26);
 	display: inline-block;
 	@include position(center, center);
 }
@@ -27,6 +27,7 @@
 		width: 282px;
 		background: $color-yellow;
 		@include position(center, center);
+		box-shadow: 0 2px 4px 0 rgba(0,0,0,0.26);
 		border-radius: 3px;
 }
 
@@ -36,6 +37,7 @@
 		background: $color-yellow;
 		@include position(center, center);
 		border-radius: 3px;
+		box-shadow: 0 2px 4px 0 rgba(0,0,0,0.26);
 		opacity: $opacity-disable;
 }
 
