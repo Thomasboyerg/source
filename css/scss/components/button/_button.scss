@@ -30,8 +30,17 @@
 		border-radius: 3px;
 }
 
+.btn-yellow-disable {
+		height: 62px;
+		width: 282px;
+		background: $color-yellow;
+		@include position(center, center);
+		border-radius: 3px;
+		opacity: $opacity-disable;
+}
+
 .linkText {
-	font-family: 'Open Sans';
+	font-family: "Source Sans Pro";
 	font-weight: 600;
 	font-size: 18px;
 	text-decoration: none;
