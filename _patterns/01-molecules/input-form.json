@@ -1,0 +1,13 @@
+{
+  "inputElement" : [
+    {
+      "input-placeholder" : "Email"
+    },
+    {
+      "input-placeholder" : "Telephone"
+    },
+    {
+      "input-placeholder" : "Nom"
+    }
+  ]
+}
