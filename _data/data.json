@@ -4,7 +4,8 @@
   "title": "Nullizzle shizznit velizzle, hizzle, suscipit own yo', gravida vizzle, arcu.",
   "text": {
     "btnText": "Valider",
-    "textRdv": "2. Vous pouvez venir dans l'un de nos 2 établissements pour utiliser le Device Lab ou les étudiants peuvent venir avec vous :",
+    "textRdvTwo": "2. Vous pouvez venir dans l'un de nos 2 établissements pour utiliser le Device Lab ou les étudiants peuvent venir avec vous :",
+    "textRdvThree" : "3. Nous avons besoin de votre nom et de votre adresse e-mail afin de pouvoir valider votre réservation (réponse dans les 24 heures):",
     "TextOne": "L’ECV fournit un laboratoire portatif pour les professionnels et tous ceux souhaitant une vérification de leur site Web.",
     "TextTwo": "Ce Device Lab est destiné à chaque personne souhaitant améliorer la compatibilité de son site web sur plusieurs tailles d'écran et plusieurs navigateurs.",
     "TextThree" : "Avec Browser Sync, vous pouvez régler votre site Web en temps réel sur tous les appareils. Et vous pouvez avoir des retours d’utilisateurs avec Silverback.",
