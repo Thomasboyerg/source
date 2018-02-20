@@ -19,13 +19,6 @@
     "TextFour" : "Vous serez assisté par une équipe d'étudiants qui vous aidera dans ce processus de compatibilité grâce à un rapport en direct et papier.",
     "TextFive" : "Que vous veniez nous rendre visite ou que nous passions chez vous, ce service est gratuit. En échange, vous pouvez donner un appareil que vous n’utilisez plus (ou utilisé si vous le souhaitez)."
   },
-  "nav":{
-    "NavOne":"COMMENT ÇA MARCHE ?",
-    "NavTwo":"DEVICES",
-    "NavThree":"RENDEZ-VOUS",
-    "NavFour":"SOCIAL",
-    "NavFive":"CONTACT",
-  },
   "img": {
     "avatar": {
       "src": "http://placeimg.com/100/100/people",
