@@ -1,5 +1,5 @@
 ---
-title: Bouton icônes disable
+title: Bouton icônes annuler
 ---
 
-[Insert description here]
+bouton croix orange/cercle orange pour annuler
