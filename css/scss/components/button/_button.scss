@@ -1,3 +1,6 @@
+@import "../../abstracts/mixin";
+
+
 .btn-icon-disable {
 	background: $color-yellow;
 	opacity: $opacity-disable;
@@ -15,4 +18,11 @@
 	height: 56px;
 	box-shadow: 0 0 6px 0 rgba(0,0,0,0.12);
 	display: inline-block;
+}
+
+.btn-yellow {
+		height: 62px;
+		width: 282px;
+		background: $color-yellow;
+		@include position(center, center);
 }

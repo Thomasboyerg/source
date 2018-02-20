@@ -1,0 +1,9 @@
+/*------------------------------------*\
+    #MIXIN
+\*------------------------------------*/
+
+@mixin position($axeX,$axeY) {
+  display: flex;
+  justify-content: $axeY;
+  align-items: $axeX;
+}
