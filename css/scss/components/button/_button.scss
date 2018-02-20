@@ -9,6 +9,7 @@
 	height: 56px;
 	box-shadow: 0 0 6px 0 rgba(0,0,0,0.12);
 	display: inline-block;
+	@include position(center, center);
 }
 
 .btn-icon {
@@ -18,6 +19,7 @@
 	height: 56px;
 	box-shadow: 0 0 6px 0 rgba(0,0,0,0.12);
 	display: inline-block;
+	@include position(center, center);
 }
 
 .btn-yellow {
@@ -25,4 +27,13 @@
 		width: 282px;
 		background: $color-yellow;
 		@include position(center, center);
+		border-radius: 3px;
+}
+
+.linkText {
+	font-family: 'Open Sans';
+	font-weight: 600;
+	font-size: 18px;
+	text-decoration: none;
+	color: white;
 }
