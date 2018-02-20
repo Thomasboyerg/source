@@ -2,4 +2,4 @@
 title: Icône mail input
 ---
 
-Icone de l'input profil
+Icone de l'input mail
