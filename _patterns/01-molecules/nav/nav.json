@@ -1,0 +1,19 @@
+{
+  "nav" : [
+    {
+      "nav-liens": "Comment ça marche ?"
+    },
+    {
+      "nav-liens": "Devices"
+    },
+    {
+      "nav-liens": "Rendez-vous"
+    },
+    {
+      "nav-liens": "Social"
+    },
+    {
+      "nav-liens": "Contact"
+    }
+  ]
+}
