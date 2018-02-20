@@ -2,4 +2,4 @@
 title: Text-medium
 ---
 
-[Insert description here]
+Texte pour la réservation
