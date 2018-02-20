@@ -1,5 +1,5 @@
 ---
-title: Btn-icon
+title: Bouton icônes
 ---
 
 [Insert description here]
