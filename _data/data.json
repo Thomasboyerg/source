@@ -1,7 +1,7 @@
 {
   "key": "value",
   "key2": "use this for variables you want to load globally",
-  "project-name":"ECV | Device Lab"
+  "project-name":"ECV | Device Lab",
   "title": {
     "TitleOne":"ECV DEVICE LAB",
     "TitleTwo":"Pour tout le monde !",
