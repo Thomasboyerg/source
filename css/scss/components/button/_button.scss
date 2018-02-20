@@ -39,6 +39,14 @@
 		opacity: $opacity-disable;
 }
 
+.btn-yellow-small {
+		height: 62px;
+		width: 200px;
+		background: $color-yellow;
+		@include position(center, center);
+		border-radius: 3px;
+}
+
 .linkText {
 	font-family: "Source Sans Pro";
 	font-weight: 600;
