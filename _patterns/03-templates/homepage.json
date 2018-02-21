@@ -53,6 +53,28 @@
       "loopImg" : [
         {"src-illus" : "../../images/illustration-everyone.svg"}
       ],
-    }
-  ]
+    },
+  ],
+
+
+    "loopTest" : [
+      {"src-size-icon":"../../images/facebook.svg",
+        "mockup-device":"../../images/devise-facebook.svg"
+      },
+      {"src-size-icon":"../../images/twitter.svg",
+        "mockup-device":"../../images/devise-twitter.svg"
+      },
+      {"src-size-icon":"../../images/instagram.svg",
+       "mockup-device":"../../images/devise-instagram.svg",
+     },
+     {
+       "src-size-icon":"../../images/linkedin.svg",
+       "mockup-device":"../../images/devise-linkedin.svg",
+     }
+   ],
+
+      "txt-title-h2" : "On est sur le 2.0"
+
+
+
 }
