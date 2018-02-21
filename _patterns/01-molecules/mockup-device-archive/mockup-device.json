@@ -1,0 +1,8 @@
+{
+  "mockupLoop" : [
+    {  "mockup-device":"../../images/devise-facebook.svg"},
+    {  "mockup-device":"../../images/devise-twitter.svg"},
+    {  "mockup-device":"../../images/devise-instagram.svg"},
+    {  "mockup-device":"../../images/devise-linkedin.svg"}
+  ]
+}

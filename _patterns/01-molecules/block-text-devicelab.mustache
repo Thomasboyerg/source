@@ -1,4 +1,12 @@
 <div class="container-block">
-  <p>{{> atoms-title-important }}</p>
-  <p>{{> atoms-text-important }}</p>
+  {{#loopH1}}
+    {{> atoms-title-important }}
+  {{/loopH1}}
+  {{#loopH2}}
+    <h2>{{> atoms-txt-title-h2}}</h2>
+  {{/loopH2}}
+    {{> atoms-text-important }}
+  {{#loopBtn}}
+    {{> atoms-btn-yellow-small }}
+  {{/loopBtn}}
 </div>
