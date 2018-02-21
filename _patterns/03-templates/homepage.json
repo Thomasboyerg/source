@@ -4,9 +4,9 @@
       "loopH1" : [
         { "txt-text-important" : "h1"}
       ],
-      "txt-text-important" :"txt-text-important",
+      "txt-text-important" :"L’ECV fournit un laboratoire portatif pour les professionnels et tous ceux souhaitant une vérification de leur site Web.",
       "loopBtn" : [
-        { "btnText" : "btnText" }
+        { "btnText" : "Décourvrir" }
       ],
       "loopImg" : [
         {"src-illus" : "../../images/illustration-welcome.svg"}
@@ -17,20 +17,41 @@
     },
     {
       "loopH2" : [
-        { "txt-title-h2" : "txt-title-h2"}
+        { "txt-title-h2" : "Pour tout le monde !"}
       ],
-      "txt-text-important" :"txt-text-important",
+      "txt-text-important" :"Ce Device Lab est destiné à chaque personne souhaitant améliorer la compatibilité de son site web sur plusieurs tailles d'écran et plusieurs navigateurs.",
       "loopImg" : [
-        {"src-illus" : "../../images/illustration-welcome.svg"}
+        {"src-illus" : "../../images/illustration-everyone.svg"}
       ],
     },
     {
       "loopH2" : [
-        { "txt-title-h2" : "txt-title-h2"}
+        { "txt-title-h2" : "Efficace & puissant !"}
       ],
-      "txt-text-important" :"txt-text-important",
+      "txt-text-important" :"Avec Browser Sync, vous pouvez régler votre site Web en temps réel sur tous les appareils. Et vous pouvez avoir des retours d’utilisateurs avec Silverback.",
       "loopImg" : [
-        {"src-illus" : "../../images/illustration-welcome.svg"}
+        {"src-illus" : "../../images/illustration-synchro.svg"}
+      ],
+    },
+    {
+      "loopH2" : [
+        { "txt-title-h2" : "Partage !"}
+      ],
+      "txt-text-important" :"Vous serez assisté par une équipe d'étudiants qui vous aidera dans ce processus de compatibilité grâce à un rapport en direct et papier.",
+      "loopImg" : [
+        {"src-illus" : "../../images/illustration-share.svg"}
+      ],
+    },
+    {
+      "loopH2" : [
+        { "txt-title-h2" : "Gratuit"}
+      ],
+      "txt-text-important" :"Que vous veniez nous rendre visite ou que nous passions chez vous, ce service est gratuit. En échange, vous pouvez donner un appareil que vous n’utilisez plus (ou utilisé si vous le souhaitez).",
+      "loopBtn" : [
+        { "btnText" : "FAIRE UN DON" }
+      ],
+      "loopImg" : [
+        {"src-illus" : "../../images/illustration-everyone.svg"}
       ],
     }
   ]
