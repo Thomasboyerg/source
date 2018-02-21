@@ -57,6 +57,7 @@
   ],
 
 
+
     "loopTest" : [
       {"src-size-icon":"../../images/facebook.svg",
         "mockup-device":"../../images/devise-facebook.svg"
@@ -73,7 +74,21 @@
      }
    ],
 
-      "txt-title-h2" : "<span>On est sur l</span>e 2.0"
+      "txt-title-h2" : "<span>On est sur l</span>e 2.0",
+
+
+
+        "customersloop" : [
+          {  "customers":"../../images/trello-icon.svg"},
+          {  "customers":"../../images/tedx-icon.svg"},
+          {  "customers":"../../images/codepen-logo.svg"},
+          {  "customers":"../../images/invision-logo.svg"},
+          {  "customers":"../../images/mailchimp-logo.svg"}
+        ],
+
+        "txt-title-h3" :"Ils nous on fait confiance :"
+      
+
 
 
 
