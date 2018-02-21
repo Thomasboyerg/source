@@ -1,7 +1,9 @@
 header {
   width: 100%;
   flex-wrap: nowrap;
-  @include position(flex-start,flex-start);
+  margin-top: 30px;
+  margin-bottom: 60px;
+  @include position(flex-start,center);
     .wrapperNav > nav > ul {
       display: flex;
       padding-left: 0;
@@ -15,4 +17,9 @@ header {
     .wrapperNav > nav > ul > li:first-child {
       padding-left: 0;
     }
+
+    .wrapperNav > nav > ul > li > a {
+      text-transform: capitalize;
+    }
+
 }
