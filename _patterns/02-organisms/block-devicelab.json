@@ -1,13 +1,13 @@
 {
   "loopH1" : [
-    { "txt-text-h1" : "txt-text-important"}
+    { "txt-text-h1" : "ECV DEVICELAB"}
   ],
   "loopH2" : [
-    { "txt-title-h2" : "txt-title-h2"}
+    { "txt-title-h2" : "Pour tout le monde!"}
   ],
-  "txt-text-important" :"txt-text-important",
+  "txt-text-important" :"L’ECV fournit un laboratoire portatif pour les professionnels et tous ceux souhaitant une vérification de leur site Web.",
   "loopBtn" : [
-    { "btnText" : "btnText" }
+    { "btnText" : "DÉCOUVRIR" }
   ],
   "loopImg" : [
     {"src-illus" : "../../images/illustration-welcome.svg"}
