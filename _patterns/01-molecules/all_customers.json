@@ -1,0 +1,9 @@
+{
+  "customersloop" : [
+    {  "customers":"../../images/trello-icon.svg"},
+    {  "customers":"../../images/tedx-icon.svg"},
+    {  "customers":"../../images/codepen-logo.svg"},
+    {  "customers":"../../images/invision-logo.svg"},
+    {  "customers":"../../images/mailchimp-logo.svg"}
+  ]
+}
