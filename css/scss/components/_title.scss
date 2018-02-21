@@ -32,3 +32,20 @@ hr{
   border-top: 0.15em solid #D1C4E9;
   margin: 0;
 }
+
+.txt-title-h3{
+  text-align: center;
+  font-family: "Source Sans Pro";
+  font-weight: 600;
+  color: white;
+  font-size: 1.5em;
+  margin: 0;
+  padding-bottom: 1.2em;
+}
+
+.recommandations{
+  background-color: $color-purple;
+  margin: 0;
+  padding-top: 24px;
+  padding-bottom: 36px;
+}
