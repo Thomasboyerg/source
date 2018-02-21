@@ -15,5 +15,9 @@
     {
       "nav-liens": "Contact"
     }
-  ]
+  ],
+  "images" :
+    {
+      "image-nav": "../../images/logo.svg"
+    }
 }
