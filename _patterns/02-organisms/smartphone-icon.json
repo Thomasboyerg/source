@@ -13,5 +13,8 @@
      "src-size-icon":"../../images/linkedin.svg",
      "mockup-device":"../../images/devise-linkedin.svg",
    }
-  ]
+ ],
+
+    "txt-title-h2" :"On est sur le 2.0"
+
 }
