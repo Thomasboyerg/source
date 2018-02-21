@@ -1,9 +1,13 @@
-{{>molecules-title_underline}}
 <div class="mockup-conteneur">
-  {{#loopTest}}
-  <div class="mockup">
-    {{>atoms-images}}
-    {{>atoms-btn-icon}}
+  <div class="mockup-titre">
+    {{>molecules-title_underline}}
   </div>
+  <div class="mockup">
+  {{#loopTest}}
+    <div class="device">
+      {{>atoms-images}}
+      {{>atoms-btn-icon}}
+    </div>
   {{/loopTest}}
+  </div>
 </div>
