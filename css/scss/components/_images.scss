@@ -1,0 +1,15 @@
+.mockup-device {
+  width: 100%;
+  height: auto;
+  margin-bottom: 3em;
+}
+
+.mockup {
+@include position(center, center);
+flex-direction: column;
+}
+
+.mockup-conteneur{
+  display: flex;
+  justify-content: space-around;
+}
