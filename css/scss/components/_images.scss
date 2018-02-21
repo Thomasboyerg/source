@@ -3,7 +3,10 @@
   height: auto;
   margin-bottom: 3em;
 }
-
+.mockup-conteneur{
+  margin-top: 5em;
+  @include position(center, center);
+}
 .mockup {
 @include position(center, center);
 flex-direction: column;
@@ -15,23 +18,11 @@ flex-direction: column;
   justify-content: space-around;
 }
 
-// .customers{
-//   margin-left: 20px;
-//   margin-right: 20px;
-// }
-//
-// .customers::before{
-//   margin-left: 0;
-// }
-//
-// .customers::after{
-//   margin-right: 0;
-// }
 
 .customers{
   width: 15%;
-
 }
+
 .all_customers{
   display: flex;
   flex-flow: row wrap;
@@ -40,3 +31,4 @@ flex-direction: column;
   padding-left: 15%;
   padding-right: 15%;
 }
+
