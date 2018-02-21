@@ -1,0 +1,37 @@
+{
+  "loopViewport" : [
+    {
+      "loopH1" : [
+        { "txt-text-important" : "h1"}
+      ],
+      "txt-text-important" :"txt-text-important",
+      "loopBtn" : [
+        { "btnText" : "btnText" }
+      ],
+      "loopImg" : [
+        {"src-illus" : "../../images/illustration-welcome.svg"}
+      ],
+      "loopBtnArrow" : [
+        {"src-size-icon":"../../images/arrow.svg"}
+      ]
+    },
+    {
+      "loopH2" : [
+        { "txt-title-h2" : "txt-title-h2"}
+      ],
+      "txt-text-important" :"txt-text-important",
+      "loopImg" : [
+        {"src-illus" : "../../images/illustration-welcome.svg"}
+      ],
+    },
+    {
+      "loopH2" : [
+        { "txt-title-h2" : "txt-title-h2"}
+      ],
+      "txt-text-important" :"txt-text-important",
+      "loopImg" : [
+        {"src-illus" : "../../images/illustration-welcome.svg"}
+      ],
+    }
+  ]
+}
