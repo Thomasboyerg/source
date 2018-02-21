@@ -1,0 +1,16 @@
+{
+  "social" : {
+    "facebook" : {
+        "src":"../../images/facebook.svg"
+    },
+    "twitter" : {
+        "src":"../../images/twitter.svg"
+    },
+    "instagram" : {
+        "src":"../../images/instagram.svg"
+    },
+    "linkedin" : {
+        "src":"../../images/linkedin.svg"
+    }
+  }
+}
