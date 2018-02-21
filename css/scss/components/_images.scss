@@ -1,15 +1,33 @@
 .mockup-device {
-  width: 100%;
   height: auto;
   margin-bottom: 3em;
 }
+
+.device {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .mockup-conteneur{
   margin-top: 5em;
-  @include position(center, center);
+  display: flex;
+  flex-direction: column;
+  max-width: 900px;
+  margin: 0 auto;
 }
+
+.mockup-titre {
+  max-width: 900px;
+  padding-bottom: 65px;
+
+}
+
 .mockup {
-@include position(center, center);
-flex-direction: column;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
 }
 
 .mockup-conteneur{

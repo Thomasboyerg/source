@@ -18,6 +18,7 @@
   ],
   "images" :
     {
+      "image-nav": "../../images/logo.svg"
       "image-nav": "../../images/logo.png"
     }
 }
