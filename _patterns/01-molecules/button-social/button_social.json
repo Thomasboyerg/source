@@ -1,8 +1,8 @@
 {
-  "iconLoop": {
-    "src-size-icon":"../../images/facebook.svg",
-    "src-size-icon":"../../images/twitter.svg",
-    "src-size-icon":"../../images/instagram.svg",
-    "src-size-icon":"../../images/linkedin.svg"
-  }
+  "iconLoop" : [
+    {  "src-size-icon":"../../images/facebook.svg"},
+    {  "src-size-icon":"../../images/twitter.svg"},
+    {  "src-size-icon":"../../images/instagram.svg"},
+    {  "src-size-icon":"../../images/linkedin.svg"}
+  ]
 }
