@@ -1,9 +1,17 @@
-<div class="block-container">
-  {{>molecules-block-text-devicelab}}
-  {{# loopImg}}
-    <img class="block-image" src="{{src-illus}}" alt="info">
-  {{/ loopImg}}
-  {{# loopBtnArrow}}
+<div class="container">
+  <div class="wrapper">
+    <div class="block-text">
+      {{>molecules-block-text-devicelab}}
+    </div>
+    <div class="block-img">
+      {{# loopImg}}
+        <img class="block-image" src="{{src-illus}}" alt="info">
+      {{/ loopImg}}
+    </div>
+  </div>
+  <div class="block-icon">
+    {{# loopBtnArrow}}
     {{>atoms-btn-icon}}
-  {{/ loopBtnArrow}}
+    {{/ loopBtnArrow}}
+  </div>
 </div>

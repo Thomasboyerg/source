@@ -1,0 +1,16 @@
+.wrapper {
+  @include position(center, center);
+}
+
+.block-text {
+  padding-right: 20px;
+}
+
+.block-icon {
+  @include position(center, center);
+  padding-top: 30px;
+}
+
+.container {
+  margin-bottom: 200px;
+}
